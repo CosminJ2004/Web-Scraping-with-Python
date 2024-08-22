@@ -1,0 +1,5 @@
+Company: PSM ENERGO CONSTRUCTII
+Location: Ploiești
+Salary: ['1200', '1350 €']
+More info link:https://www.bestjobs.eu/ro/loc-de-munca/inginer-junior-proiectant-instalatii-electrice
+------------------------------

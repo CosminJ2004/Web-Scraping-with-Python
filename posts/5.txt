@@ -1,0 +1,5 @@
+Company: AVITECH
+Location: Cluj-Napoca,Oradea,Satu Mare,Voluntari,București...
+Salary: ['1200', '2000 €']
+More info link:https://www.bestjobs.eu/ro/loc-de-munca/tehnician-inginer-mentenanta-sisteme-de-securitate-9
+------------------------------

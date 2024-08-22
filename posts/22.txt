@@ -1,0 +1,5 @@
+Company: Moskat Grup Metal
+Location: Iași
+Salary: ['1205', '1330 €']
+More info link:https://www.bestjobs.eu/ro/loc-de-munca/inginer-montaj-1
+------------------------------

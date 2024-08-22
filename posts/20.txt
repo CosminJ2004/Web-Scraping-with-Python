@@ -1,0 +1,5 @@
+Company: NESS PROIECT EUROPE
+Location: Iași
+Salary: ['1370', '1510 €']
+More info link:https://www.bestjobs.eu/ro/loc-de-munca/sef-santier-cfdp-1
+------------------------------
