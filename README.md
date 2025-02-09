@@ -3,7 +3,7 @@
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 ## Overview
-Web Scraping with Python is a project that extracts job listings from employment websites based on user-defined criteria. It allows users to specify keywords, locations, and other filters to retrieve relevant job postings efficiently.
+Web Scraping with Python is a project that extracts job listings from employment websites based on user-defined criteria. It allows users to specify keywords, locations, salary, and other filters to retrieve relevant job postings efficiently.
 
 ## Features
 - **BeautifulSoup Integration:** Parse and navigate HTML easily.
